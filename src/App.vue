@@ -9,7 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Ликуся ты лучшая!" />
-      <HelloWorld msg="Суча!" />
       <br>
       <p>Люблю тебя</p>
       <nav>
